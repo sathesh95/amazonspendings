@@ -9,7 +9,7 @@ You now have all the purchases you have made for the year in terms of money in o
 
 Clean the data using find and replace to delete the spaces/special characters(Rs,/) before using the SUM function to calculate the total money spent.This code does the work of scraping all your purchase data so that you can calculate your total spending using a couple minutes of excel work.
 
-The next version might very well calculate your entire spendings and  through code execution itself.But for now this is a workaround to avoid data cleaning in the code.Suggestions and updates are welcome.
+The next version might very well calculate your entire spendings and  through code execution itself.But for now this is a workaround to avoid data cleaning in the code.Suggestions and contributions are welcome.
 
 Hope you found this useful,
 sathesh95
