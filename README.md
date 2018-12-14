@@ -1,6 +1,8 @@
 # amazonspendings
 This python code uses selenium and beautifulsoup to scrape through all your purchase history and find out how much money you have spent on amazon for a particular year.Since Amazon India doesn't give its customers a tool to calculate total annual spending I thought this code might help the customers calculate their annual spends.
 
+This code requires chromedriver to be present on your computer.If you don't have search for chromedriver in google and download it.The required python libraries include requests,beautifulsoup and selenium.
+
 This code was written using Jupyter Notebook and hence it is in the .ipynb format.
 
 Once the code is completely run the purchase data is stored as a excel file in the directory of your choice.The data is not clean yet.So don't worry if your cells show blank value.Just click on them and you will see the  values.
